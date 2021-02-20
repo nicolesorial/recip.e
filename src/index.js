@@ -7,7 +7,7 @@ import App from './App';
 // Screens
 import { AutomaticRecipeScreen } from './screens/AutomaticRecipeScreen';
 import { DashboardScreen } from './screens/DashboardScreen';
-import { ManualRecipeScreen } from './screens/ManualRecipeScreen';
+import ManualRecipeScreen from './screens/ManualRecipeScreen';
 import { NewRecipeScreen } from './screens/NewRecipeScreen';
 import { RecipeScreen } from './screens/RecipeScreen';
 
